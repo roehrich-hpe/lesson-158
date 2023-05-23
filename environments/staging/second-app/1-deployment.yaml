@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: deanhpe/nginx2:v0.1.2
+          image: deanhpe/nginx2:v0.1.3
           ports:
             - containerPort: 80
             
